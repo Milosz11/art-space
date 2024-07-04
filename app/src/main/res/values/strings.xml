@@ -2,4 +2,9 @@
     <string name="app_name">Art Space</string>
     <string name="next">Next</string>
     <string name="prev">Prev</string>
+    <string name="artist_credit">Alysia</string>
+    <string name="description_birds">A couple of happy birds</string>
+    <string name="description_bridge">A bridge in winter</string>
+    <string name="description_robins">A pair of red robins enjoying winter</string>
+    <string name="by_author">By: %s</string>
 </resources>
